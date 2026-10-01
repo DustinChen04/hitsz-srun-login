@@ -1,6 +1,6 @@
 # HITSZ Srun Login
 
-MIT License, Copyright (c) 2026 PageChen04.
+MIT License, Copyright (c) 2026 Dustin Chen.
 
 更适合哈工深宝宝体质的深澜校园网登录工具。现已支持 HIT SSO、本地账号登录、注销、在线设备查询与下线。
 
